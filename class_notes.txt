@@ -1,0 +1,25 @@
+// Following 3 files always appear in C++ Programming
+
+#include<iostream>
+using namespace std;
+int main()
+
+{
+    cout<<"Hello Nobish Programmer Rony"
+    return 0;
+}
+
+<< is insertion operator
+
+# printf may need data type but cout dont need to specify data type while printing
+
+# c++ ignore whitespace
+
+# return 0 ends the main function
+
+# std:: is replaceing using namespace std; but its not efficient
+
+# 
+
+
+
