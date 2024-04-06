@@ -19,3 +19,4 @@ int main()
 }
 
 // All C++ variables must be identified with unique names
+// We should use mearningful name in variable for better understanding
