@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 using namespace std;
 int main()
 
@@ -41,5 +42,11 @@ cout << "Character Type Data as Per Input =" << char01 << endl;
 cout << "String Type Data as Per Input =" << string01 << endl;
 
 return 0;
+
+//Float type takes 6 to 7 digits after decimal
+// Double type takes about 15 digits after decimal
+// Booleans only can set true or false values. Output will come as true (1) and false (0)
+
+// ASCI Character or ASCI Value for each character
 
 }
